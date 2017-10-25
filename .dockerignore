@@ -1,0 +1,6 @@
+# ignore git
+.git
+
+# ignore docs
+LICENSE
+README.md
